@@ -1,1 +1,1 @@
-# searchVidz
+Video Searcher implementing youtube API. The video are shown in the same web page using fancybox library. Technology applied: Html5, CSS, Javascript, Jquery, AJAX and use of 3rd party APIs.
